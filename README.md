@@ -14,8 +14,10 @@
 - 📫 How to reach me **shreedharjagatap2002@gmail.com**
 
 - 📄 Know about my experiences
-      **1)Data Science Intern @Altizon Systems PVT.LTD,**
-      **2) Data Analyst Intern @Mentorness**
+     <ol>
+          <li><b>Data Science Intern @Altizon Systems PVT.LTD</b></li>
+          <li><b>Data Analyst Intern @Mentorness**</b></li>
+     </ol> 
 
 - ⚡ Fun fact **I think i have Missed something Even If i have done it already**
 
