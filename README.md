@@ -1,5 +1,5 @@
 ![shutterstock_1563971182-scaled](https://github.com/shreedhar13/Fassos_Data_Cleaning_And_Analysis_Using_SQL_Queries/assets/153434680/bc37ade6-a2e7-4efc-9802-de11083b3964)
-<h1 align="center">Hi 👋, I'm Shreedhar Sanjay Jagatap</h1>
+<h1 align="center">Hi 👋, I'm Shreedhar Sanjay Jagatap | B.E(Computer Science Engineer)</h1>
 <h3 align="center">A Skilled Data Scientist / Data Analyst / AI/ML Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 
