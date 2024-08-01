@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreedhar13&label=Profile%20views&color=0e75b6&style=flat" alt="shreedhar13" /> </p>
 
-- 🌱 I’m currently learning **Upskill my self in my expertise**
+- 🌱 I’m currently learning and **Upskilling my self in my expertise**
 
 - 👨‍💻 All of MY **DATA SCIENCE Learnings** are available at [https://github.com/shreedhar13/My_DataScience_Learnings](https://github.com/shreedhar13/My_DataScience_Learnings)
 
