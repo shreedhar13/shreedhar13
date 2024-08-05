@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning and **Upskilling my self in my expertise**
 
-- 👨‍💻 All of MY **DATA SCIENCE Learnings** are available at [https://github.com/shreedhar13/My_DataScience_Learnings](https://github.com/shreedhar13/My_DataScience_Learnings)
+- 👨‍💻 All of MY **DATA SCIENCE Learnings** are available at [https://github.com/shreedhar13/My_DataScience_Learnings](https://github.com/shreedhar13/MY_AIML_LEARNINGS_WITH_CODE_AND_DOCUMENTATION)
 
 - 👨‍💻 All of **GENERATIVE AI Learnings** are available at [https://github.com/shreedhar13/My_Generative_AI_Learnings](https://github.com/shreedhar13/My_Generative_AI_Learnings)
 
